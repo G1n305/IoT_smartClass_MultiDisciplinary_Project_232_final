@@ -4,3 +4,5 @@ Using yolo:bit
 -import to website
 -creat and config your own feeds and Dashboard on Adafruit
 -get AIO Key for read and writing to feed or fetch data to your own web
+
+!!! MUST HIDE AIO KEY BEFORE PUBLISHING CODE BECAUSE OF THE PRIVACY POLICY OF ADAFRUIT !!!
